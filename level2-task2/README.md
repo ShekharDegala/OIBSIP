@@ -4,7 +4,7 @@ A royal and vibrant tribute page dedicated to **Virat Kohli**, celebrating his c
 
 ## 🚀 Live Demo
 
-🔗 [View Live Tribute Page](https://shekhardegala.github.io/OIBSIP/level2task2/)
+🔗 [View Live Tribute Page](https://shekhardegala.github.io/OIBSIP/level2-task2/)
 
 ## 📸 Highlights
 
