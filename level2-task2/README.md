@@ -20,5 +20,5 @@ A royal and vibrant tribute page dedicated to **Virat Kohli**, celebrating his c
 - CSS3
 - GitHub Pages
 
-## 📂 Project Structure
+
 
