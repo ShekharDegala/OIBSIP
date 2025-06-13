@@ -21,11 +21,10 @@ A simple login authentication system built using **HTML**, **CSS**, and **JavaSc
 ## 🖼️ Screenshots
 
 
-| Login Page | Home Page |
-|------------|-----------|
-|![image](https://github.com/user-attachments/assets/3500298a-148c-4611-8bea-b3ae92ca06aa) 
-|![image](https://github.com/user-attachments/assets/cf854795-b917-4145-9fbe-92033fe531ab)
-|
+| Login Page | 
+|![image](https://github.com/user-attachments/assets/3500298a-148c-4611-8bea-b3ae92ca06aa) |
+| Home Page  |
+|![image](https://github.com/user-attachments/assets/cf854795-b917-4145-9fbe-92033fe531ab) |
 
 ## ⚙️ How It Works
 
