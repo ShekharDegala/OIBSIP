@@ -25,7 +25,7 @@ Includes dual display (input & output) with results rounded to 6 decimal places.
 
 A tribute page dedicated to cricket legend **Virat Kohli**, highlighting his records, achievements, captaincy trophies (including IPL 2025), and biography with a royal and vibrant design.
 
-🔗 [Live Demo](https://shekhardegala.github.io/OIBSIP/level2-task2/)  
+🔗 [Live Demo](https://shekhardegala.github.io/OIBSIP/level2-task2/)
 📁 `level2-task2/`
 
 ---
@@ -37,7 +37,7 @@ A sleek, responsive **To-Do List App** with the ability to:
 - Track completed tasks
 - Beautiful glassmorphism UI
 
-🔗 [Live Demo](https://shekhardegala.github.io/OIBSIP/level2-task3/)  
+🔗 [Live Demo](https://shekhardegala.github.io/OIBSIP/level2-task3/)
 📁 `level2-task3/`
 
 ---
@@ -50,7 +50,7 @@ A simple front-end login system with:
 - Dynamic display of input fields
 - Background image & responsive UI
 
-🔗 [Live Demo](https://shekhardegala.github.io/OIBSIP/level2-task4/)  
+🔗 [Live Demo](https://shekhardegala.github.io/OIBSIP/level2-task4/)
 📁 `level2-task4/`
 
 ---
