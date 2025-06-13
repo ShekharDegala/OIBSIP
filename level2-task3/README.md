@@ -27,6 +27,7 @@ Allows users to add, complete, delete, and manage their daily tasks with ease.
 
 ![To-Do List Demo](![image](https://github.com/user-attachments/assets/4dc00f0d-5ef7-4ad1-bc52-cb0cee623cd9)
 )
+![image](https://github.com/user-attachments/assets/711f034c-625b-473a-b2cb-84d60d8b8853)
 
 
 ---
