@@ -24,7 +24,7 @@ This is a simple, responsive calculator built using **HTML**, **CSS**, and **Jav
 
 ## 🖼️ Preview
 
-![Calculator Screenshot]![image](https://github.com/user-attachments/assets/66b97bfc-cf6e-48b1-92dd-61c46f8c5fad)
+![image](https://github.com/user-attachments/assets/66b97bfc-cf6e-48b1-92dd-61c46f8c5fad)
 
 
 
